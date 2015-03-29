@@ -1,0 +1,5 @@
+C:\Repo\Butterfly.Service.Rest\Butterfly.Service.Rest\bin\Debug\Butterfly.Service.Rest.dll
+C:\Repo\Butterfly.Service.Rest\Butterfly.Service.Rest\bin\Debug\Butterfly.Service.Rest.pdb
+C:\Repo\Butterfly.Service.Rest\Butterfly.Service.Rest\obj\Debug\Butterfly.Service.Rest.csprojResolveAssemblyReference.cache
+C:\Repo\Butterfly.Service.Rest\Butterfly.Service.Rest\obj\Debug\Butterfly.Service.Rest.dll
+C:\Repo\Butterfly.Service.Rest\Butterfly.Service.Rest\obj\Debug\Butterfly.Service.Rest.pdb
